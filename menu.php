@@ -16,7 +16,9 @@
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="Ejercicio_1.php">Ejercicio 1</a></li>
-                            <li><a class="dropdown-item" href="form_clientes2.php">Datos Ajax</a></li>
+                            <li><a class="dropdown-item" href="Ejercicio_2.php">Ejercicio 2</a></li>
+                            <li><a class="dropdown-item" href="Ejercicio_3.php">Ejercicio 3</a></li>
+                            
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
